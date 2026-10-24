@@ -1,0 +1,12 @@
+>phiX_F NC_001422.1 1254-1275 forward, 221 bp amplicon with phiX_R
+TCATGAAGGATGGTGTTAATGC
+>phiX_R NC_001422.1 1453-1474 reverse complement, pairs with phiX_F
+ACGAGCATCATCTTGATTAAGC
+>phiX_hairpin NC_001422.1 3953-3974 forward, folds into an 8 bp stem
+CATGCCTCCAAATCTTGGAGGC
+>phiX_dimer NC_001422.1 2998-3019 forward, self-dimerises across its 3' end
+GAGGCGGTCAAAAAGCCGCCTC
+>phiX_gcrich NC_001422.1 4324-4345 forward, GC-rich with a G quadruplex motif
+ACCACCGCCCCGAAGGGGACGA
+>phiX_atrich NC_001422.1 1388-1409 forward, AT-rich with no 3' GC clamp
+AATATCTATAACAACTATTTTA
